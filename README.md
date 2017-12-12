@@ -1,2 +1,3 @@
 # hello-world2
 Here we go. Learning how to code
+I am learning how to code. Please refer to hello-world (without the 2) which was my first major project so far. There may be information about me there...
